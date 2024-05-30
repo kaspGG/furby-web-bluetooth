@@ -7,6 +7,20 @@
         ]
     },
     { 
+        "file": "tr002990.dlc", 
+        "title": "idk",
+        "buttons": [
+            { "title": "idk", "action": [75,0,6,4] }
+        ]
+    },
+    { 
+        "file": "tr002590.dlc", 
+        "title": "idk2",
+        "buttons": [
+            { "title": "idk2", "action": [75,0,5,4] }
+        ]
+    },
+    { 
         "file": "hacked.dlc", 
         "title": "HACKED",
         "buttons": [
